@@ -2,6 +2,8 @@
 
 **Seu atendente virtual de pizzaria está pronto para atender!**
 
+[Imagem de um chatbot em forma de pizza com um chapéu de cozinheiro e um sorriso amigável]
+
 O Botsarello é um chatbot de atendimento de pizzaria que utiliza a tecnologia de ponta da API do Gemini para oferecer uma experiência de pedido personalizada e eficiente. Através da inteligência artificial, o Botsarello entende seus desejos e te guia pelas opções do menu, desde as pizzas clássicas até as mais criativas, com bordas recheadas e acompanhamentos deliciosos.
 
 **O que o Botsarello pode fazer por você?**
@@ -9,6 +11,7 @@ O Botsarello é um chatbot de atendimento de pizzaria que utiliza a tecnologia d
 * **Acolher seu pedido:** Basta iniciar uma conversa com o Botsarello e ele te guiará pelo processo de pedido, desde a escolha da pizza até a finalização.
 * **Entender suas preferências:** O Botsarello reconhece os sabores e acompanhamentos do nosso menu e te ajuda a encontrar a combinação perfeita para o seu paladar.
 * **Sugerir opções:** Se você está indeciso, o Botsarello pode te sugerir pizzas com base em seus gostos e no que está em alta no momento.
+[Imagem de um chatbot de pizza sugerindo diferentes tipos de pizza]
 * **Personalizar seu pedido:** Adicione bordas recheadas, peça ingredientes extras ou faça modificações especiais, o Botsarello te ajuda a criar a pizza dos seus sonhos.
 * **Confirmar seu pedido:** Antes de finalizar, o Botsarello te mostrará um resumo do seu pedido para que você possa confirmar tudo e ter certeza de que está tudo certo.
 * **E muito mais!** O Botsarello está em constante aprendizado e aprimoramento, e logo poderá oferecer ainda mais recursos para tornar sua experiência de pedido ainda mais completa e satisfatória.
