@@ -1,4 +1,4 @@
-## Botsarello: Um Chatbot de Pizzaria Inteligente com Gemini API
+## Botsarello: Um Chatbot de Pizzaria Usando agentes com Gemini API
 
 **Seu atendente virtual de pizzaria está pronto para atender!**
 
