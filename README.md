@@ -8,7 +8,7 @@ O Botsarello é um chatbot de atendimento de pizzaria que utiliza a tecnologia d
 
 **O que o Botsarello pode fazer por você?**
 
-* **Acolher seu pedido:** Basta iniciar uma conversa com o Botsarello e ele te guiará pelo processo de pedido, desde a escolha da pizza até a finalização.
+* **Receber seu pedido:** Basta iniciar uma conversa com o Botsarello e ele te guiará pelo processo de pedido, desde a escolha da pizza até a finalização.
 * **Entender suas preferências:** O Botsarello reconhece os sabores e acompanhamentos do nosso menu e te ajuda a encontrar a combinação perfeita para o seu paladar.
 * **Sugerir opções:** Se você está indeciso, o Botsarello pode te sugerir pizzas com base em seus gostos e no que está em alta no momento.
 [Imagem de um chatbot de pizza sugerindo diferentes tipos de pizza]
