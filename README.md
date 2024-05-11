@@ -16,6 +16,8 @@ O Botsarello é um chatbot de atendimento de pizzaria que utiliza a tecnologia d
 * **Confirmar seu pedido:** Antes de finalizar, o Botsarello te mostrará um resumo do seu pedido para que você possa confirmar tudo e ter certeza de que está tudo certo.
 * **E muito mais!** O Botsarello está em constante aprendizado e aprimoramento, e logo poderá oferecer ainda mais recursos para tornar sua experiência de pedido ainda mais completa e satisfatória.
 
+![Imagem de um pedido](Pedido.png)
+
 **Comece seu pedido agora!**
 
 Para iniciar um pedido com o Botsarello, basta seguir estas instruções:
